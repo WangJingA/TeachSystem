@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>teach_manager</artifactId>
-
+    <description>教学系统管理员模块，具有最高权限和控制权限</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

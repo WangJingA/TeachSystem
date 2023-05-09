@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>teach_biz</artifactId>
-
+    <description>文件上传和解析模块</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>teach_student</artifactId>
-
+    <description>学生模块</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
